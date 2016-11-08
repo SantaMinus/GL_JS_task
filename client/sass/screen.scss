@@ -1,0 +1,23 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import "compass/reset";
+
+table {
+  border-collapse: collapse;
+  display: inline-table;
+  margin: 10px;
+  td {
+    border: 1px solid;
+    text-align: center;
+  }
+  .name {
+    font-size: 120%;
+    font-weight: bold;
+  }
+  .cap {
+    min-width: 32pt;
+  }
+}

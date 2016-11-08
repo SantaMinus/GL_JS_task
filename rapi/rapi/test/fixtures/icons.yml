@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  icon: 1
+  name: MyString
+  cap1: MyString
+  cap2: MyString
+  num1: 1
+  num2: 1
+
+two:
+  icon: 1
+  name: MyString
+  cap1: MyString
+  cap2: MyString
+  num1: 1
+  num2: 1
